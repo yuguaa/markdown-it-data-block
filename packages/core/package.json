@@ -1,6 +1,6 @@
 {
   "name": "@yugu/markdown-it-data-block",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A plugin for markdown-it to add data block support",
   "main": "dist/index.js",
   "types": "./dist/types/**.d.ts",
