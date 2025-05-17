@@ -12,7 +12,8 @@ export default defineConfig({
   build: {
     lib: {
       entry: resolve(__dirname, 'src/index.ts'),
-      name: 'testLib',
+      name: 'MarkdownItDataBlockPlugin',
+      
       fileName: 'index',
       formats: ['es', 'amd', 'umd', 'iife', 'cjs', 'esm']
     },

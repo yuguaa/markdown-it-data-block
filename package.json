@@ -4,10 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev:test-lib": "pnpm --filter @packages/test-lib dev",
-    "build:test-lib": "pnpm --filter @packages/test-lib build",
-    "release:test-lib": "pnpm --filter @packages/test-lib release",
-    "playground:vue": "pnpm --filter @playground/vue dev"
+    "dev": "pnpm --filter @yugu/markdown-it-data-block dev",
+    "build": "pnpm --filter @yugu/markdown-it-data-block build",
+    "release": "pnpm --filter @yugu/markdown-it-data-block release",
+    "playground": "pnpm --filter @playground/vue dev"
   },
   "keywords": [],
   "author": "",

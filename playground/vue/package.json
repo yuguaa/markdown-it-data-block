@@ -14,7 +14,9 @@
     "pinia": "^2.2.4",
     "vue": "^3.5.12",
     "vue-router": "^4.4.5",
-    "@packages/test-lib": "workspace:*"
+    "markdown-it-attrs": " ^4.3.1",
+    "markdown-it": "^14.1.0",
+    "@yugu/markdown-it-data-block": "workspace:*"
   },
   "devDependencies": {
     "@tsconfig/node20": "^20.1.4",
